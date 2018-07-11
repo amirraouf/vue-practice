@@ -1,6 +1,6 @@
-# test
+# Vue-practice
 
-> Nuxt.js project
+> It is an app for practicing which include many random apps using vue2 Nuxt.js, and written in ES6, Compiled using `babel` and bundled using webpack.
 
 ## Build Setup
 

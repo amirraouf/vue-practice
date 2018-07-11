@@ -10,6 +10,9 @@
 	    <nuxt-link to='/calculator' class="navbar-item">
 	    	Calculator
 	    </nuxt-link>
+	    <nuxt-link to='/tasks' class="navbar-item">
+	    	Tasks
+	    </nuxt-link>
 
 	    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
 	      <span aria-hidden="true"></span>
